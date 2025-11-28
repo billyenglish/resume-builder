@@ -19,7 +19,7 @@ const navMenu = [
     {
         navTitle: 'Technical Skills',
         navIcon: <FaBrain />,
-        navLink: '/technical-skills',
+        navLink: '/skills',
         id: 2
     },
     {
@@ -35,21 +35,21 @@ const navMenu = [
         id: 4
     },
     {
-        navTitle: 'Graduation',
+        navTitle: 'Education',
         navIcon: <FaGraduationCap />,
-        navLink: '/graduation',
+        navLink: '/education',
         id: 5
     },
     {
-        navTitle: 'Awards',
+        navTitle: 'Certifications',
         navIcon: <FaAward />,
-        navLink: 'awards',
+        navLink: '/certifications',
         id: 6
     },
     {
         navTitle: 'Menu',
         navIcon: <GoKebabHorizontal />,
-        navLink: 'menu',
+        navLink: '/menu',
         id: 7
     }
 ]
