@@ -7,7 +7,7 @@ Built with **React**, **TypeScript**, and **Tailwind CSS**, this tool makes resu
 
 ## 🌐 Live Demo
 
-[Try the Resume Builder here](https://billyenglish.github.io/resume-builder/)  
+[Try the Resume Builder here](https://buildyourresumeapp.netlify.app/)
 
 *(Open in a browser to start building your resume instantly!)*
 
